@@ -1,9 +1,18 @@
 ## PLANT LEAF DISEASE DETECTION AND RECOMMENDATION OF CROPS AND FERTILIZERS USING DEEP NEURAL NETWORK 
 [click here to view ppt](https://docs.google.com/presentation/d/1hyhX96FMG9jVcbzHTkac3pvSfe--ksTA/edit?usp=sharing&ouid=109400921624374952423&rtpof=true&sd=true)
+
+
+
 **output**
-![image](https://github.com/user-attachments/assets/70701d77-b942-44fe-827e-69388e5b8858) ![image](https://github.com/user-attachments/assets/32cd3056-79ef-4565-acfc-2df52bf0dfc8)
-![image](https://github.com/user-attachments/assets/006d7c56-6942-41dc-931f-25b5a4692c3d)
-![image](https://github.com/user-attachments/assets/a6bf2222-5a5b-4ded-8f51-0dbc55e46252)
+
+![image](https://github.com/user-attachments/assets/72688f3c-093c-430a-95c5-f044c57c1103)
+![image](https://github.com/user-attachments/assets/c64bb2e1-68f9-4b6f-8525-96f18f73f1d9)
+![image](https://github.com/user-attachments/assets/aa84bcfe-e2d7-46ef-b4b5-cf4f53e20387)
+![image](https://github.com/user-attachments/assets/7f658aad-b610-43a1-bbb8-dcbb0f915446)
+![image](https://github.com/user-attachments/assets/a80dadae-c750-4ce4-97c6-79cec4ccf2f2)
+![image](https://github.com/user-attachments/assets/56393e0f-19df-4220-a077-d0ffb4d90396)
+![image](https://github.com/user-attachments/assets/da41905f-ec97-4549-8747-d9f7aafab033)
+![image](https://github.com/user-attachments/assets/f4a8be15-685a-4763-ae46-f91870e67903)
 
 
 **Abstract**

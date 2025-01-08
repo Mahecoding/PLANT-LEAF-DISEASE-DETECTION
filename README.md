@@ -50,8 +50,6 @@ When compared with others RANDOM FOREST and XGBOOST achieved the highest accurac
 PLANT DISEASE DETECTION:
 ResNet has been shown to achieve state-of-the-art results in various image classification tasks, including plant disease detection. By using ResNet, it achieved higher accuracy in detecting and diagnosing plant diseases compared to traditional computer vision methods of 99.2%.
 
-![image](https://github.com/user-attachments/assets/ab200226-2545-4438-b478-af7d76e7b642)
-
 ![image](https://github.com/user-attachments/assets/2c23e08d-7c73-40b6-a49c-b198bfe4a596)
 ![image](https://github.com/user-attachments/assets/4fabfa91-70a4-4273-9fe2-c193da7446e3)
 

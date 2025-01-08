@@ -59,9 +59,6 @@ ResNet has been shown to achieve state-of-the-art results in various image class
 
 ![image](https://github.com/user-attachments/assets/8e37e487-ac95-4272-9c56-561fd8db2b78)
 
-![image](https://github.com/user-attachments/assets/d8b1f2a3-1ebd-44b0-a6f7-bb4a9ff45671)
-
-![image](https://github.com/user-attachments/assets/9cc99745-bd7d-4992-a9ba-3e2ac82643c0)
 
 **CONCLUSION**
 Plant disease prediction and hybrid crop recommendation will be more helpful for the persons who don’t have knowledge about the agriculture.The model is basically tested on some types of plant species with some types of plant diseases. The overall system results show that ResNet9 model works better as compared to the other models and provide better accuracy in detecting the diseases .As an extension to the project the number of classes of plants and its diseases will be increased.

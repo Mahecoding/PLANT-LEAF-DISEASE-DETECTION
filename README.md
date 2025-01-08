@@ -34,6 +34,7 @@ The objective of crop recommendation is to provide farmers with actionable crops
 CROP RECOMMENDATION:
 The proposed work is also  recommending crops of 22 classes by developing 6 Machine learning  model were tested and trained such as Decision tree, Gaussian Naive Bayes, SVM, Logistic Regression, Random Forest and Xgboost.
 ![image](https://github.com/user-attachments/assets/27f7f2c5-d76b-4977-b618-f8f0fe8c65e5)
+![image](https://github.com/user-attachments/assets/88950708-e860-4f6a-aaf3-e862d9fba8f1)
 
 FERTILIZER RECOMMENDATION:
 Prepared a custom dataset by combining the crop and fertilizer dataset for 21classes in the fertilizer recommendation model.
@@ -45,6 +46,22 @@ CNN was educated for one lakh datasets obtained from Kaggle website and operatin
 In ResNet unlike in traditional neural networks, each layer feeds into the next layer, we use a network with residual block, to avoid over-fitting. This also helps in preventing vanishing gradient problem and allow us to train deep neural networks.
 Between the subsequent Con2D layers, batch normalization followed by ReLU (Rectified Linear Unit) activation layer was added. At the end of each stage, the stage is outcome is added with the original images and passed through  ReLU activation layer before starting the next layer.
 ![image](https://github.com/user-attachments/assets/1089a1f7-9ceb-4d70-bc54-3656fe7d474e)
+
+**RESULT**
+![image](https://github.com/user-attachments/assets/dde3e85c-119d-433b-9ed2-3e78de65b6d2)
+
+HYBRID  CROP  RECOMMENDATION:
+For the hybrid crop recommendation system the DECISION TREE achieved the accuracy of 0.90, LOGISTIC REGRESSION achieved the accuracy of 0.95227, RANDOM FOREST achieved the accuracy of 0.9909090, XGBOOST achieved the accuracy of 0.9931818, SVM achieved the accuracy of 0.1068181,NAIVE BAYES achieved the accuracy of 0.990909.
+When compared with others RANDOM FOREST and XGBOOST achieved the highest accuracy 0f 99 and SVM has the least accuracy in the training phase.
+PLANT DISEASE DETECTION:
+ResNet has been shown to achieve state-of-the-art results in various image classification tasks, including plant disease detection. By using ResNet, it achieved higher accuracy in detecting and diagnosing plant diseases compared to traditional computer vision methods of 99.2%.
+
+
+![image](https://github.com/user-attachments/assets/8e37e487-ac95-4272-9c56-561fd8db2b78)
+
+![image](https://github.com/user-attachments/assets/d8b1f2a3-1ebd-44b0-a6f7-bb4a9ff45671)
+
+![image](https://github.com/user-attachments/assets/9cc99745-bd7d-4992-a9ba-3e2ac82643c0)
 
 **CONCLUSION**
 Plant disease prediction and hybrid crop recommendation will be more helpful for the persons who don’t have knowledge about the agriculture.The model is basically tested on some types of plant species with some types of plant diseases. The overall system results show that ResNet9 model works better as compared to the other models and provide better accuracy in detecting the diseases .As an extension to the project the number of classes of plants and its diseases will be increased.

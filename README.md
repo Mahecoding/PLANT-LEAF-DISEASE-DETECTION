@@ -34,7 +34,7 @@ The objective of crop recommendation is to provide farmers with actionable crops
 CROP RECOMMENDATION:
 The proposed work is also  recommending crops of 22 classes by developing 6 Machine learning  model were tested and trained such as Decision tree, Gaussian Naive Bayes, SVM, Logistic Regression, Random Forest and Xgboost.
 ![image](https://github.com/user-attachments/assets/27f7f2c5-d76b-4977-b618-f8f0fe8c65e5)
-![image](https://github.com/user-attachments/assets/88950708-e860-4f6a-aaf3-e862d9fba8f1)
+
 
 FERTILIZER RECOMMENDATION:
 Prepared a custom dataset by combining the crop and fertilizer dataset for 21classes in the fertilizer recommendation model.
@@ -48,6 +48,9 @@ Between the subsequent Con2D layers, batch normalization followed by ReLU (Recti
 ![image](https://github.com/user-attachments/assets/1089a1f7-9ceb-4d70-bc54-3656fe7d474e)
 
 **RESULT**
+
+![image](https://github.com/user-attachments/assets/88950708-e860-4f6a-aaf3-e862d9fba8f1)
+
 ![image](https://github.com/user-attachments/assets/dde3e85c-119d-433b-9ed2-3e78de65b6d2)
 
 HYBRID  CROP  RECOMMENDATION:

@@ -33,22 +33,18 @@ The objective of crop recommendation is to provide farmers with actionable crops
 
 CROP RECOMMENDATION:
 The proposed work is also  recommending crops of 22 classes by developing 6 Machine learning  model were tested and trained such as Decision tree, Gaussian Naive Bayes, SVM, Logistic Regression, Random Forest and Xgboost.
+![image](https://github.com/user-attachments/assets/27f7f2c5-d76b-4977-b618-f8f0fe8c65e5)
 
 FERTILIZER RECOMMENDATION:
 Prepared a custom dataset by combining the crop and fertilizer dataset for 21classes in the fertilizer recommendation model.
 It gives organic manure and easy ways to overcome the widespread of disease by giving input to the  N,P,K pHvalues, soil.
+![image](https://github.com/user-attachments/assets/f4940642-3a15-4fe9-a904-1d046b0e5cc2)
 
 PLANT DISEASE PREDICTION:
 CNN was educated for one lakh datasets obtained from Kaggle website and operating with the Resnet9 algorithm This layer performances overall best compared to other models  and getting 99.1% of accuracy in training. 
 In ResNet unlike in traditional neural networks, each layer feeds into the next layer, we use a network with residual block, to avoid over-fitting. This also helps in preventing vanishing gradient problem and allow us to train deep neural networks.
 Between the subsequent Con2D layers, batch normalization followed by ReLU (Rectified Linear Unit) activation layer was added. At the end of each stage, the stage is outcome is added with the original images and passed through  ReLU activation layer before starting the next layer.
-  
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/1089a1f7-9ceb-4d70-bc54-3656fe7d474e)
 
 **CONCLUSION**
 Plant disease prediction and hybrid crop recommendation will be more helpful for the persons who don’t have knowledge about the agriculture.The model is basically tested on some types of plant species with some types of plant diseases. The overall system results show that ResNet9 model works better as compared to the other models and provide better accuracy in detecting the diseases .As an extension to the project the number of classes of plants and its diseases will be increased.

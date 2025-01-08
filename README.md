@@ -1,2 +1,8 @@
-![image](https://github.com/user-attachments/assets/cbb66118-2a78-419c-bacb-8c40cdeb9266)# PLANT-LEAF-DISEASE-DETECTION
+#PLANT LEAF DISEASE DETECTION AND RECOMMENDATION OF CROPS AND FERTILIZERS USING DEEP NEURAL NETWORK
+
+
+
+![image](https://github.com/user-attachments/assets/cbb66118-2a78-419c-bacb-8c40cdeb9266)#
+
+
 
